@@ -1,0 +1,39 @@
+h1{
+font-family: 'Bebas Neue', cursive;
+    font-size:60px;
+    color:#C7180A;
+    letter-spacing:5px;
+    text-align:right;
+}
+
+.description{
+    color:#C7180A; font-size:30px;
+}
+ul{
+font-size: 30px;
+    color:#C7180A;
+}
+.wild {
+color:#C7180A;
+    font-size: 30px;
+}
+img{
+height:400px;
+    width:600px;
+}
+.crazy{
+color:#C7180A;
+    font-size:30px;
+}
+
+.filler{
+color:#852742;
+    font-size:30px;
+}
+tr{
+color:#C7180A;
+    font-size:30px;
+    line-height:35px;
+}
+
+
